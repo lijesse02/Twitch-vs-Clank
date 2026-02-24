@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+
+# large files
+runs/
+checkpoints/
+*.state
+*.sav
+*.gb
+*.gbc
+
+# OS
+.DS_Store
+Thumbs.db
