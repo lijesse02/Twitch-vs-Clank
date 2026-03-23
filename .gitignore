@@ -9,6 +9,7 @@ env/
 runs/
 checkpoints/
 secrets/
+search/data/
 *.state
 *.sav
 *.gb
